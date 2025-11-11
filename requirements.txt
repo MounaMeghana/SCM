@@ -1,0 +1,8 @@
+uvicorn 
+fastapi
+passlib[CryptContext]
+bcrypt
+pyJWT
+pymongo
+dotenv
+pydantic
